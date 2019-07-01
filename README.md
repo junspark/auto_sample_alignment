@@ -12,7 +12,8 @@ conda install click
 conda install -c conda-forge scikit-image
 conda install -c conda-forge trackpy 
 
-
+'''
+*******************************
 # packages in environment at /home/beams/PARKJS/anaconda3/envs/auto_alignment:
 #
 # Name                    Version                   Build  Channel
@@ -123,3 +124,4 @@ zlib                      1.2.11               h7b6447c_3
 zstd                      1.4.0                h3b9ef0a_0    conda-forge
 
 *******************************
+'''
